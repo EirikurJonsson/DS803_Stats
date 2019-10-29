@@ -49,3 +49,4 @@ Rmarkdown is not like an R script. R scripts are used when you want to write cod
 ## Extra info
 
 The Rmarkdown cheetsheet is fantastic to use. If you cant find it on our shared Onedrive then google Rmarkdown cheetsheet Rstudio and that way you will get it. 
+You can also contact me over the sudent email or our FBmessenger group.
